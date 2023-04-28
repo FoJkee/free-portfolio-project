@@ -13,7 +13,7 @@ const Projeсt = () => {
                     <div className='project-details__desc'>
                         <p>Skills: React, Node.js, MongoDB</p>
                     </div>
-                    <BtnGitHub />
+                    <BtnGitHub link='https://github.com' />
                 </div>
             </div>
         </main>
