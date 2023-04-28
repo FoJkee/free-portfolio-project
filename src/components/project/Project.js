@@ -1,4 +1,3 @@
-import projects01 from './../../img/projects/01.jpg';
 import './style.css';
 const Project = ({ title, img }) => {
     return (
